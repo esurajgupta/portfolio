@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Irukkaa - job Search App",
+    "imageSrc": "projects/irukkaa.png",
+    "description": "Developed a React Native job platform app for the blue-collar sector to find and post jobs easily based on interests. Enabled users to register as workers or resource owners and get real-time job alerts. Supported multiple industries like agriculture, construction, and manufacturing. Included local product promotion and community features. Integrated Firebase for login and notifications.",
+    "skills": ["React-Native", "MySQL", "Java", "SpringBoot", "Firebase"],
+    "demo": "https://play.google.com/store/apps/details?id=com.oodatek.irukkaa&hl=en_IN",
+    "source": "https://play.google.com/store/apps/details?id=com.oodatek.irukkaa&hl=en_IN"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Fan4ever - sports platform app",
+    "imageSrc": "projects/fan4ever.png",
+    "description": "Built a React Native social sports app for badminton fans to follow tournaments and match updates. Added post interactions (like, share, comment) and court reservation based on location. Used MQTT for live score updates and Firebase for login and notifications. Integrated Razorpay for booking and registration payments. Integrated Firebase for login and notifications.features like booking.",
+    "skills": ["React-Native", "MySQL", "Java", "SpringBoot", "Firebase"],
+    "demo": "https://play.google.com/store/apps/details?id=com.fan4ever&hl=en_IN",
+    "source": "https://play.google.com/store/apps/details?id=com.fan4ever&hl=en_IN"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Katara - a discovering cultural village",
+    "imageSrc": "projects/katara.png",
+    "description": "Built a Flutter To-Do app for exploring Katara Village, featuring museums, monuments, places to visit, and events. Developed with Flutter and Strapi CMS for content management. Designed a user-friendly interface for easy navigation. Implemented a search feature for quick access to information. Integrated Strapi for backend management and Firebase for notifications. Included a map feature for location guidance.",
+    "skills": ["Flutter", "Strapi", "Dart"],
+    "demo": "https://katara.net/en/",
+    "source": "https://katara.net/en/"
   }
 ]
